@@ -2,12 +2,12 @@ package nex
 
 import (
 	"github.com/PretendoNetwork/nex-go/v2/types"
-	commonmatchmaking "github.com/PretendoNetwork/nex-protocols-common-go/v2/match-making"
-	commonmatchmakingext "github.com/PretendoNetwork/nex-protocols-common-go/v2/match-making-ext"
-	commonmatchmakeextension "github.com/PretendoNetwork/nex-protocols-common-go/v2/matchmake-extension"
-	commonnattraversal "github.com/PretendoNetwork/nex-protocols-common-go/v2/nat-traversal"
-	commonranking "github.com/PretendoNetwork/nex-protocols-common-go/v2/ranking"
-	commonsecure "github.com/PretendoNetwork/nex-protocols-common-go/v2/secure-connection"
+	commonmatchmaking "github.com/PeamoNetwork/nex-protocols-common-go/v2/match-making"
+	commonmatchmakingext "github.com/PeamoNetwork/nex-protocols-common-go/v2/match-making-ext"
+	commonmatchmakeextension "github.com/PeamoNetwork/nex-protocols-common-go/v2/matchmake-extension"
+	commonnattraversal "github.com/PeamoNetwork/nex-protocols-common-go/v2/nat-traversal"
+	commonranking "github.com/PeamoNetwork/nex-protocols-common-go/v2/ranking"
+	commonsecure "github.com/PeamoNetwork/nex-protocols-common-go/v2/secure-connection"
 	matchmaking "github.com/PretendoNetwork/nex-protocols-go/v2/match-making"
 	matchmakingext "github.com/PretendoNetwork/nex-protocols-go/v2/match-making-ext"
 	match_making_types "github.com/PretendoNetwork/nex-protocols-go/v2/match-making/types"
@@ -15,7 +15,7 @@ import (
 	nattraversal "github.com/PretendoNetwork/nex-protocols-go/v2/nat-traversal"
 	ranking "github.com/PretendoNetwork/nex-protocols-go/v2/ranking/splatoon"
 	secure "github.com/PretendoNetwork/nex-protocols-go/v2/secure-connection"
-	"github.com/PretendoNetwork/splatoon/globals"
+	"github.com/PeamoNetwork/splatoon/globals"
 )
 
 func CreateReportDBRecord(_ types.PID, _ types.UInt32, _ types.QBuffer) error {
