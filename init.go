@@ -9,11 +9,11 @@ import (
 	"strconv"
 	"strings"
 
-	pbaccount "github.com/PretendoNetwork/grpc/go/account"
-	pbfriends "github.com/PretendoNetwork/grpc/go/friends"
+	pbaccount "github.com/PeamoNetwork/grpc/go/account"
+	pbfriends "github.com/PeamoNetwork/grpc/go/friends"
 
 	"github.com/PretendoNetwork/plogger-go"
-	"github.com/PretendoNetwork/splatoon/globals"
+	"github.com/PeamNetwork/splatoon/globals"
 	"github.com/joho/godotenv"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
