@@ -2,12 +2,12 @@ package nex
 
 import (
 	"fmt"
-	common_globals "github.com/PretendoNetwork/nex-protocols-common-go/v2/globals"
+	common_globals "github.com/PeamoNetwork/nex-protocols-common-go/v2/globals"
 	"os"
 	"strconv"
 
 	"github.com/PretendoNetwork/nex-go/v2"
-	"github.com/PretendoNetwork/splatoon/globals"
+	"github.com/PeamoNetwork/splatoon/globals"
 )
 
 func StartSecureServer() {
