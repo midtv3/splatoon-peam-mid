@@ -8,7 +8,7 @@ import (
 	"os"
 	"strconv"
 
-	pb "github.com/PretendoNetwork/grpc/go/account"
+	pb "github.com/PeamoNetwork/grpc/go/account"
 	"github.com/PretendoNetwork/nex-go/v2"
 	"google.golang.org/grpc/metadata"
 )
