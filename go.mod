@@ -1,4 +1,4 @@
-module github.com/PeamoNetwork/splatoon
+module github.com/splatoon-peam-mid/splatoon
 
 go 1.24.0
 
