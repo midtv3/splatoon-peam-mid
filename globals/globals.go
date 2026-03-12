@@ -2,10 +2,10 @@ package globals
 
 import (
 	"database/sql"
-	pbaccount "github.com/PretendoNetwork/grpc/go/account"
-	pbfriends "github.com/PretendoNetwork/grpc/go/friends"
+	pbaccount "github.com/PeamoNetwork/grpc/go/account"
+	pbfriends "github.com/PeamoNetwork/grpc/go/friends"
 	"github.com/PretendoNetwork/nex-go/v2"
-	"github.com/PretendoNetwork/nex-protocols-common-go/v2/globals"
+	"github.com/PeamoNetwork/nex-protocols-common-go/v2/globals"
 	"github.com/PretendoNetwork/plogger-go"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
