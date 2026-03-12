@@ -1,13 +1,13 @@
-module github.com/PretendoNetwork/splatoon
+module github.com/PeamoNetwork/splatoon
 
 go 1.24.0
 
 toolchain go1.24.9
 
 require (
-	github.com/PretendoNetwork/grpc/go v0.0.0-20251014173731-f51013f00744
+	github.com/PeamoNetwork/grpc/go v0.0.0-20251014173731-f51013f00744
 	github.com/PretendoNetwork/nex-go/v2 v2.1.4
-	github.com/PretendoNetwork/nex-protocols-common-go/v2 v2.4.1-0.20250809110555-cf55627f0b5a
+	github.com/PeamoNetwork/nex-protocols-common-go/v2 v2.4.1-0.20250809110555-cf55627f0b5a
 	github.com/PretendoNetwork/nex-protocols-go/v2 v2.2.1
 	github.com/PretendoNetwork/plogger-go v1.1.0
 	github.com/joho/godotenv v1.5.1
