@@ -3,7 +3,7 @@ package globals
 import (
 	"context"
 
-	pbfriends "github.com/PretendoNetwork/grpc/go/friends"
+	pbfriends "github.com/PeamoNetwork/grpc/go/friends"
 	"github.com/PretendoNetwork/nex-protocols-go/v2/globals"
 	"google.golang.org/grpc/metadata"
 )
