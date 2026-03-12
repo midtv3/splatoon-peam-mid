@@ -3,7 +3,7 @@ package main
 import (
 	"sync"
 
-	"github.com/PretendoNetwork/splatoon/nex"
+	"github.com/PeamoNetwork/splatoon/nex"
 )
 
 var wg sync.WaitGroup
