@@ -6,7 +6,7 @@ import (
 	"strconv"
 
 	"github.com/PretendoNetwork/nex-go/v2"
-	"github.com/PretendoNetwork/splatoon/globals"
+	"github.com/PeamoNetwork/splatoon/globals"
 )
 
 func StartAuthenticationServer() {
